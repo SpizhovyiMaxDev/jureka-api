@@ -25,7 +25,6 @@ so frontend devs don't have to worry about constructing error messages.
 
  - Java 21+
  - Spring Boot
- - Spring Web
  - Spring Data JPA
  - Hibernate
  - Maven
